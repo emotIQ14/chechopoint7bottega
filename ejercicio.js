@@ -7,3 +7,5 @@ function comprobarNumero(a, b, c, d) {
     console.log("¡El número es menor que 50!");
   }
 }
+
+module.exports = comprobarNumero;
